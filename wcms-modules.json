@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "photo_gallery": {
+            "name": "Photo Gallery",
+            "repo": "https://github.com/robdell/photo_gallery/tree/main",
+            "zip": "https://github.com/robdell/photo_gallery/archive/refs/heads/main.zip",
+            "summary": "Gallery plugin for WonderCMS by Hermadme",
+            "version": "1.0.0",
+            "image": "https://github.com/robdell/photo_gallery/raw/main/preview.jpg"
+        }
+    }
+}
