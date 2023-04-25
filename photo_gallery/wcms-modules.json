@@ -1,7 +1,7 @@
 {
     "version": 1,
     "plugins": {
-        "plugin-name": {
+        "photo_gallery": {
             "name": "Photo Gallery",
             "repo": "https://github.com/robdell/photo_gallery/tree/main",
             "zip": "https://github.com/robdell/photo_gallery/archive/refs/heads/main.zip",
