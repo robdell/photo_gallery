@@ -1,5 +1,6 @@
 <?php
-defined('INC_ROOT') || die('Direct access is not allowed.');
+//defined('INC_ROOT') || die('Direct access is not allowed.');
+defined('INC_ROOT');
 
 wCMS::addListener('css', 'loadLBoxCSS');
 
